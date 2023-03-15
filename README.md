@@ -1,6 +1,6 @@
 # Skincare Guide
 
-## Sections
+## Sections:
 ### Section 1
 Type here...
 ### Section 2
