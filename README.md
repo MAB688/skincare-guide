@@ -1,15 +1,15 @@
 # Skincare Guide
 
 ## Sections:
-### Section 1
+### Cleanser 
 Type here...
-### Section 2
+### Serums 
 Type here...
-### Section 3
+### Moisturizer 
 Type here...
-### Section 4
+### Routine Chart
 Type here...
-### Section 5
+### Specific Skin Issues
 Type here...
 
 ## Ethics Statement
