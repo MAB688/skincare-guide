@@ -30,7 +30,7 @@ ul li ul.dropdown li {
 }
 ul li ul.dropdown {
     width: 100%;
-    background: #22438C;
+    background: #333;
     position: absolute;
     z-index: 9999;
     display: none;
@@ -58,7 +58,7 @@ ul li:hover ul.dropdown {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 30px;
     text-decoration: none;
   }
   
@@ -140,12 +140,18 @@ h1 {
   }
 
 .textblock h2 {
-    font-size: 24pt;
+    font-size: 30pt;
     font-weight: bold;
 }
 
 .textblock h3 {
-    font-size: 16pt;
+    font-size: 14pt;
+    text-align: left;
+}
+
+.textblock h4 {
+    font-size: 20pt;
+    font-weight: bold;
     text-align: left;
 }
 
@@ -163,7 +169,7 @@ h1 {
   
   .Product-li a {
     display: block;
-    color: black;
+    color: rgb(255, 254, 254);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
