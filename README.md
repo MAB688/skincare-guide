@@ -55,3 +55,7 @@ We believe in promoting inclusion and celebrating diversity in all aspects of ou
 ***
 
 ## [Skincare Guide Pitch](https://github.com/MAB688/elevator-pitch-skincare)
+
+***
+## Team Members:
+Keara Yasko, Farnaz Khandaker, Saajan Gandhi, Shane Landis, Mark Bosco 
