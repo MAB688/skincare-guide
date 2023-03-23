@@ -7,12 +7,12 @@
 > * Do's   
 > * Don'ts
 > * Suggested products
-* Combination
+* Normal Skin
 > * Blurb  
 > * Do's   
 > * Don'ts
 > * Suggested products
-* Oily
+* Oily Skin
 > * Blurb  
 > * Do's   
 > * Don'ts
