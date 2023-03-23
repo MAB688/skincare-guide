@@ -51,3 +51,7 @@ We are committed to upholding ethical principles in all aspects of our skincare 
 
 ## Inclusion Statement
 We believe in promoting inclusion and celebrating diversity in all aspects of our content. We recognize that everyone's skin is unique and that people come from different backgrounds and experiences. We aim to provide a safe and welcoming space where everyone feels valued and respected.
+
+***
+
+## [Skincare Guide Pitch](https://github.com/MAB688/elevator-pitch-skincare)
